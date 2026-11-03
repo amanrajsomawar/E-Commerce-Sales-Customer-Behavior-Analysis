@@ -62,4 +62,4 @@ Dataset link: https://archive.ics.uci.edu/dataset/352/online+retail
 - Presentation summarizing key findings
 
 ## Author
-Python Exploratory Data Analysis Portfolio Project
+Amanraj Somawar
